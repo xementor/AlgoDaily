@@ -1,4 +1,10 @@
-
+/*
+    Aproach : DFS | Recursion | backtracking
+    - first find start , end , and obstracle number by broatforach.
+    - then dfs recursion.
+    - basecase is , when in end box then check all the box are visisted or not.
+    - for a cell go 4 direction and when go to the next level increase visted cell
+*/
 class Solution{
     private static final int[][] DIRECTIONS = {{0,-1},{-1,0},{0,1},{1,0}};
     
