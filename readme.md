@@ -1,4 +1,7 @@
-| Day  | Question                                                                | Source                                                        | Type | Remarks |
-| :--- | :---------------------------------------------------------------------- | :------------------------------------------------------------ | :--- | :------ |
-| 1    | [Unique Paths II](leetcode/63-unique-paths-ii/63-unique-paths-ii.java)  | [leetcode 63](https://leetcode.com/problems/unique-paths-ii/) | DP   |
-| 1    | [Unique Paths III](leetcode/980-unique-paths-iii/unique-paths-iii.java) | [leetcode 980]()                                              | dfs  |
+| Day  | Question                                                                | Source                                                                | Type         | Remarks |
+| :--- | :---------------------------------------------------------------------- | :-------------------------------------------------------------------- | :----------- | :------ |
+| 1    | [Unique Paths II](leetcode/63-unique-paths-ii/63-unique-paths-ii.java)  | [leetcode 63](https://leetcode.com/problems/unique-paths-ii/)         | DP           |
+| 1    | [Unique Paths III](leetcode/980-unique-paths-iii/unique-paths-iii.java) | [leetcode 980](https://leetcode.com/problems/unique-paths-iii/)       | dfs          |
+| 2    | [Coin Change](leetcode/322-coin-change/)                                | [leetcode 322]()                                                      | DP           |
+| 2    | [Merge Two Sorted Lists](leetcode/Merge%20Two%20Sorted%20Lists/)        | LinkedList                                                            | [leetcode]() |
+| 2    | [K-th Symbol in Grammar](leetcode/779-k-th-symbol-in-grammar/)          | [leetcode 779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | recursion    | R       |
