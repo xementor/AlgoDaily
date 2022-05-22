@@ -7,3 +7,4 @@
 | 2    | [K-th Symbol in Grammar](leetcode/779-k-th-symbol-in-grammar/)                                      | [leetcode 779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | recursion    | R       |
 | 3    | [Percentage of Letter in String](leetcode/227-percentage-of-letter-in-string/)                      | leetcode 2278                                                         | contest      |
 | 3    | [Maximum Bags With Full Capacity of Rocks](leetcode/2279-maximum-bags-with-full-capacity-of-rocks/) | leetcode 2279                                                         | greedy       |
+| 3    | [647. Palindromic Substrings](leetcode/647-palindromic-substrings/)                                 | leetcode                                                              |              | top     |
