@@ -9,3 +9,4 @@
 | 3    | [Maximum Bags With Full Capacity of Rocks](leetcode/2279-maximum-bags-with-full-capacity-of-rocks/) | leetcode 2279                                                         | greedy       |
 | 3    | [647. Palindromic Substrings](leetcode/647-palindromic-substrings/)                                 | leetcode                                                              |              | top     | 8     |
 | 4    | [474. Ones and Zeroes](leetcode/474-ones-and-zeroes/)                                               | leetcode 474                                                          | dp           |         | 9     |
+| 4    | [94. Binary Tree Inorder Traversal](leetcode/94-binary-tree-inorder-traversal/)                     | leetcode 94                                                           | recursion    |         | 10    |
