@@ -10,4 +10,5 @@
 | 3    | [647. Palindromic Substrings](leetcode/647-palindromic-substrings/)                                 | leetcode                                                              |              | top     | 8     |
 | 4    | [474. Ones and Zeroes](leetcode/474-ones-and-zeroes/)                                               | leetcode 474                                                          | dp           |         | 9     |
 | 4    | [94. Binary Tree Inorder Traversal](leetcode/94-binary-tree-inorder-traversal/)                     | leetcode 94                                                           | recursion    |         | 10    |
-| 5    | [32. Longest Valid Parentheses](leetcode/32-longest-valid-parentheses/)                             | leetcode 94                                                           | dp           |         | 11    |d
+| 5    | [32. Longest Valid Parentheses](leetcode/32-longest-valid-parentheses/)                             | leetcode 94                                                           | dp           |         | 11    | d |
+| 6    | [191. Number of 1 Bits](leetcode/191-number-of-1-bits/)                                             | easy                                                                  |              |      |12
