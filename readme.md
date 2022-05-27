@@ -14,3 +14,4 @@
 | 6    | [191. Number of 1 Bits](leetcode/191-number-of-1-bits/)                                                       | easy                                                                  |              |         | 12    |
 | 7    | [1342. Number of Steps to Reduce a Number to Zero](leetcode/1342-number-of-steps-to-reduce-a-number-to-zero/) | leetcode 1342                                                         | easy         |         | 13    |
 | 7    | [2169. Count Operations to Obtain Zero](leetcode/2169-count-operations-to-obtain-zero/)                       | leetocde 2169                                                         | easy         |         | 14    |
+| 7    | [2139. Minimum Moves to Reach Target Score](leetcode/2139-minimum-moves-to-reach-target-score/)               | leetcode 2139                                                         | easy         |         | 15    |
