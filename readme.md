@@ -16,3 +16,4 @@
 | 7    | [2169. Count Operations to Obtain Zero](leetcode/2169-count-operations-to-obtain-zero/)                       | leetocde 2169                                                         | easy         |         | 14    |
 | 7    | [2139. Minimum Moves to Reach Target Score](leetcode/2139-minimum-moves-to-reach-target-score/)               | leetcode 2139                                                         | easy         |         | 15    |
 7|[1716. Calculate Money in Leetcode Bank](leetcode/1716-calculate-money-in-leetcode-bank/)|leetcode 1716|easy||16
+8|[268. Missing Number](leetcode/268-missing-number/)|leetcode 268|easy||17
