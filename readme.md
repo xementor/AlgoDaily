@@ -19,3 +19,4 @@
 8|[268. Missing Number](leetcode/268-missing-number/)|leetcode 268|easy||17
 8|[5. Longest Palindromic Substring](leetcode/5-longest-palindromic-substring/)|leetcode 5|medium||18
 9|[516. Longest Palindromic Subsequence](leetcode/516-longest-palindromic-subsequence/)|letcode 516|medium||19
+9|[300. Longest Increasing Subsequence](leetcode/300-longest-increasing-subsequence/)|leetcode 300|dp||20
