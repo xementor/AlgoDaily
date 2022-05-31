@@ -22,3 +22,4 @@
 9|[300. Longest Increasing Subsequence](leetcode/300-longest-increasing-subsequence/)|leetcode 300|dp||20
 10|[29. Divide Two Integers](leetcode/29-divide-two-integers/)|leetcode 30|bit shift|x|21
 10|[701. Insert into a Binary Search Tree](leetcode/701-insert-into-a-binary-search-tree/)|leetcode 701|recursion|r|22
+11|[1461. Check If a String Contains All Binary Codes of Size K](leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/)|leetcode|bit shifting||23
