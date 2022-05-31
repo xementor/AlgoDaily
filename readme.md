@@ -23,3 +23,4 @@
 10|[29. Divide Two Integers](leetcode/29-divide-two-integers/)|leetcode 30|bit shift|x|21
 10|[701. Insert into a Binary Search Tree](leetcode/701-insert-into-a-binary-search-tree/)|leetcode 701|recursion|r|22
 11|[1461. Check If a String Contains All Binary Codes of Size K](leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/)|leetcode|bit shifting||23
+11|[450. Delete Node in a BST](leetcode/450-delete-node-in-a-bst/)|leetcode 450|recursion|r|24
