@@ -26,3 +26,4 @@
 11|[450. Delete Node in a BST](leetcode/450-delete-node-in-a-bst/)|leetcode 450|recursion|r|24
 12|[1480. Running Sum of 1d Array](leetcode/leetcode-daily/1480-running-sum-of-1d-array/)|LD|easy||25
 12|[74. Search a 2D Matrix](leetcode/74-search-a-2d-matrix/)|leetcode 74|brute||26
+12|[240. Search a 2D Matrix II](leetcode/240-search-a-2d-matrix-ii/)|leetcode 240|medium||27
