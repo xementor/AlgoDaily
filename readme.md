@@ -24,3 +24,4 @@
 10|[701. Insert into a Binary Search Tree](leetcode/701-insert-into-a-binary-search-tree/)|leetcode 701|recursion|r|22
 11|[1461. Check If a String Contains All Binary Codes of Size K](leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/)|leetcode|bit shifting||23
 11|[450. Delete Node in a BST](leetcode/450-delete-node-in-a-bst/)|leetcode 450|recursion|r|24
+12|[1480. Running Sum of 1d Array](leetcode/leetcode-daily/1480-running-sum-of-1d-array/)|LD|easy||25
