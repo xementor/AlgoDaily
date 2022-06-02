@@ -28,3 +28,4 @@
 12|[74. Search a 2D Matrix](leetcode/74-search-a-2d-matrix/)|leetcode 74|brute||26
 12|[240. Search a 2D Matrix II](leetcode/240-search-a-2d-matrix-ii/)|leetcode 240|medium||27
 13|[867. Transpose Matrix](leetcode-daily/867-transpose-matrix/)|leetcode 867|easy||28
+13|[Print BST elements in given range](geeks/print-bst-elements-in-given-range)|geeks|r|bst1|29
