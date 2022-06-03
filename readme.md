@@ -29,4 +29,5 @@
 12|[240. Search a 2D Matrix II](leetcode/240-search-a-2d-matrix-ii/)|leetcode 240|medium||27
 13|[867. Transpose Matrix](leetcode-daily/867-transpose-matrix/)|leetcode 867|easy||28
 13|[Print BST elements in given range](geeks/print-bst-elements-in-given-range)|geeks|r|bst1|29
-14|[304. Range Sum Query 2D - Immutable](leetcode-daily/304-range-sum-query-2d-immutable/)|leetcode|easy||28
+14|[304. Range Sum Query 2D - Immutable](leetcode-daily/304-range-sum-query-2d-immutable/)|leetcode|easy||30
+14|[257. Binary Tree Paths](leetcode/257-binary-tree-paths/)|leetcode|e|bst2|31
