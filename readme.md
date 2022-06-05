@@ -32,3 +32,5 @@
 14|[304. Range Sum Query 2D - Immutable](leetcode-daily/304-range-sum-query-2d-immutable/)|leetcode|easy||30
 14|[257. Binary Tree Paths](leetcode/257-binary-tree-paths/)|leetcode|e|bst2|31
 15|[235. Lowest Common Ancestor of a BST](ds/bst/235-lowest-common-ancestor-of-a-binary-search-tree/)|leetcode 235|r|bst3|32
+16|[Minimum element in BST](ds/bst/minimum-element-in-bst/)|geeks|while|bst4|33
+
