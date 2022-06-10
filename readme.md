@@ -34,4 +34,5 @@
 15|[235. Lowest Common Ancestor of a BST](ds/bst/235-lowest-common-ancestor-of-a-binary-search-tree/)|leetcode 235|r|bst3|32
 16|[Minimum element in BST](ds/bst/minimum-element-in-bst/)|geeks|while|bst4|33
 17|[88. Merge Sorted Array](leetcode-daily/88-merge-sorted-array/)|leetcode 88|e|array|34
+18|[3. Longest Substring Without Repeating Characters](leetcode-daily/3-longest-substring-without-repeating-characters/)|leetcode 3|m|string|35
 
