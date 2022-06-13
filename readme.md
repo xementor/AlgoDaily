@@ -37,4 +37,5 @@
 18|[3. Longest Substring Without Repeating Characters](leetcode-daily/3-longest-substring-without-repeating-characters/)|leetcode 3|m|string|35
 19|[1658. Minimum Operations to Reduce X to Zero](leetcode-daily/1658-minimum-operations-to-reduce-x-to-zero/)|leetcode|m|new|36
 20|[1695. Maximum Erasure Value](leetcode-daily/1658-minimum-operations-to-reduce-x-to-zero/)|lc|m|dp|37
+21|[167. Two Sum II - Input Array Is Sorted](leetcode-daily/167-two-sum-ii-input-array-is-sorted/)|lc|m|array|38
 
