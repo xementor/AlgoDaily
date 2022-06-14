@@ -40,4 +40,5 @@
 21|[167. Two Sum II - Input Array Is Sorted](leetcode-daily/167-two-sum-ii-input-array-is-sorted/)|lc|m|array|38
 21|[120. Triangle](leetcode-daily/120-triangle/)|lc|m|dp|39
 22|[583. Delete Operation for Two Strings](leetcode-daily/583-delete-operation-for-two-strings/)|lt|dp|m|40
+22|[1143. Longest Common Subsequence](leetcode/1143-longest-common-subsequence/)|lt|dp|m|41
 
