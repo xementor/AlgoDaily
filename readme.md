@@ -38,5 +38,6 @@
 19|[1658. Minimum Operations to Reduce X to Zero](leetcode-daily/1658-minimum-operations-to-reduce-x-to-zero/)|leetcode|m|new|36
 20|[1695. Maximum Erasure Value](leetcode-daily/1658-minimum-operations-to-reduce-x-to-zero/)|lc|m|dp|37
 21|[167. Two Sum II - Input Array Is Sorted](leetcode-daily/167-two-sum-ii-input-array-is-sorted/)|lc|m|array|38
-22|[120. Triangle](leetcode-daily/120-triangle/)|lc|m|dp|39
+21|[120. Triangle](leetcode-daily/120-triangle/)|lc|m|dp|39
+22|[583. Delete Operation for Two Strings](leetcode-daily/583-delete-operation-for-two-strings/)|lt|dp|m|40
 
