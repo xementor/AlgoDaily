@@ -42,4 +42,5 @@
 22|[583. Delete Operation for Two Strings](leetcode-daily/583-delete-operation-for-two-strings/)|lt|dp|m|40
 22|[1143. Longest Common Subsequence](leetcode/1143-longest-common-subsequence/)|lt|dp|m|41
 23|[1048. Longest String Chain](xlc/1048-longest-string-chain/)|xlc|dp|m|42
+24|[214. Shortest Palindrome](xlc/214-shortest-palindrome/)|xlc|r|h|43
 
