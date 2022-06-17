@@ -43,4 +43,5 @@
 22|[1143. Longest Common Subsequence](leetcode/1143-longest-common-subsequence/)|lt|dp|m|41
 23|[1048. Longest String Chain](xlc/1048-longest-string-chain/)|xlc|dp|m|42
 24|[214. Shortest Palindrome](xlc/214-shortest-palindrome/)|xlc|r|h|43
+25|[968. Binary Tree Cameras](xlc/968-binary-tree-cameras/)|xlc|dp|hard|44
 
