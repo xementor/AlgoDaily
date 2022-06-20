@@ -44,4 +44,4 @@
 23|[1048. Longest String Chain](xlc/1048-longest-string-chain/)|xlc|dp|m|42
 24|[214. Shortest Palindrome](xlc/214-shortest-palindrome/)|xlc|r|h|43
 25|[968. Binary Tree Cameras](xlc/968-binary-tree-cameras/)|xlc|dp|hard|44
-
+26|[820. Short Encoding of Words](leetcode-daily/820-short-encoding-of-words/)|lc|substring|m|45
