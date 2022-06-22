@@ -45,3 +45,4 @@
 24|[214. Shortest Palindrome](xlc/214-shortest-palindrome/)|xlc|r|h|43
 25|[968. Binary Tree Cameras](xlc/968-binary-tree-cameras/)|xlc|dp|hard|44
 26|[820. Short Encoding of Words](leetcode-daily/820-short-encoding-of-words/)|lc|substring|m|45
+27|[215. Kth Largest Element in an Array](leetcode-daily/215-kth-largest-element-in-an-array/)|lc|queue|m|46
