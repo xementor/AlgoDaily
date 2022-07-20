@@ -46,4 +46,6 @@
 25|[968. Binary Tree Cameras](xlc/968-binary-tree-cameras/)|xlc|dp|hard|44
 26|[820. Short Encoding of Words](leetcode-daily/820-short-encoding-of-words/)|lc|substring|m|45
 27|[215. Kth Largest Element in an Array](leetcode-daily/215-kth-largest-element-in-an-array/)|lc|queue|m|46
-28|[1354. Construct Target Array With Multiple Sums](leetcode-daily/1354-construct-target-array-with-multiple-sums/)|lc|pq|h|45
+28|[1354. Construct Target Array With Multiple Sums](leetcode-daily/1354-construct-target-array-with-multiple-sums/)|lc|pq|h|47
+29|[643. Maximum Average Subarray I](leetcode/pattern/sliding-window/maximum-average-subarray-i.java)|lc|SW|easy|48
+
