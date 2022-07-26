@@ -48,4 +48,5 @@
 27|[215. Kth Largest Element in an Array](leetcode-daily/215-kth-largest-element-in-an-array/)|lc|queue|m|46
 28|[1354. Construct Target Array With Multiple Sums](leetcode-daily/1354-construct-target-array-with-multiple-sums/)|lc|pq|h|47
 29|[643. Maximum Average Subarray I](leetcode/pattern/sliding-window/maximum-average-subarray-i.java)|lc|SW|easy|48
+30|[567. Permutation in String](pattern/sliding-window/permutation-in-string.java)|lc|SlidingW|hard|49
 
