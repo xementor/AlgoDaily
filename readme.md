@@ -55,4 +55,5 @@
 32|[142. Linked List Cycle II](pattern/slow-fast-pointers/linked-list-start-of-cycle.java)|lc|fast-slow|medium|53
 33|[56. Merge Intervals](pattern/merge-intervals/merge-intervals.java)|lc|merge-interval|medium|54
 33|[57. Insert Interval](pattern/merge-intervals/insert-interval.java)|lc|merge-interval|medium|55
+34|[Minimum Room for meeting](pattern/merge-intervals/minimum-meeting-room.java)|course|merge-interval|hard|56
 
