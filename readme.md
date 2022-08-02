@@ -56,4 +56,5 @@
 33|[56. Merge Intervals](pattern/merge-intervals/merge-intervals.java)|lc|merge-interval|medium|54
 33|[57. Insert Interval](pattern/merge-intervals/insert-interval.java)|lc|merge-interval|medium|55
 34|[Minimum Room for meeting](pattern/merge-intervals/minimum-meeting-room.java)|course|merge-interval|hard|56
+35|[1. Two Sum](leetcode/two-sum/two-sum.java)|lc|array|easy|57
 
