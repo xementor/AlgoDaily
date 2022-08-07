@@ -58,4 +58,5 @@
 34|[Minimum Room for meeting](pattern/merge-intervals/minimum-meeting-room.java)|course|merge-interval|hard|56
 35|[1. Two Sum](leetcode/two-sum/two-sum.java)|lc|array|easy|57
 36|[268. Missing Number](pattern/cyclic-sort/missing-number.java)|lc|cycle-sort|easy|57
+37| [Find the First K Missing Positive Numbers (hard) ](pattern/cyclic-sort/first-k-missing-positive.JAVA)|pattern|cycle|hard|58
 
