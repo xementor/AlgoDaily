@@ -63,4 +63,5 @@
 39|[102. Binary Tree Level Order Traversal](pattern/bfs/binary-tree-level-order-traversal.java)|lc|bfs|medium|60
 40|[ICPC- Moc contest](icpc/moc/)|contest|||61
 41|[Top K Element](pattern/top-k-element-heap/)|pattern|head|easy|62
+42|[top-k-frequent-elements](pattern/top-k-element-heap/)|pattern|heap|med|63
 
