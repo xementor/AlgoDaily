@@ -66,3 +66,4 @@
 42|[top-k-frequent-elements](pattern/top-k-element-heap/)|pattern|heap|med|63
 43|[Reorganize String](pattern/top-k-element-heap/767.reorganize-string.java)|pattern|heap|med|64
 44|[Merge k Sorted Lists](pattern/merge-k-way/23.merge-k-sorted-lists.java)|pattern|heap|hard|65
+45|[hashset design](leetcode/705.design-hash-set.java)|ds|hashmap|easy|66
