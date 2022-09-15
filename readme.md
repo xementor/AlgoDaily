@@ -67,3 +67,5 @@
 43|[Reorganize String](pattern/top-k-element-heap/767.reorganize-string.java)|pattern|heap|med|64
 44|[Merge k Sorted Lists](pattern/merge-k-way/23.merge-k-sorted-lists.java)|pattern|heap|hard|65
 45|[hashset design](leetcode/705.design-hash-set.java)|ds|hashmap|easy|66
+45|[climbing stare](leetcode/70.climbing-stairs.java)|leetcode|DP|easy|67
+45|[house robber](leetcode/746.min-cost-climbing-stairs.java)|leetcode|DP|easy|68
