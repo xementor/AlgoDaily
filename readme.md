@@ -71,4 +71,5 @@
 45|[min cost climbing stare](leetcode/746.min-cost-climbing-stairs.java)|leetcode|DP|easy|68
 45|[house robber](leetcode/198.house-robber.java)|leetcode|dp|easy|69
 45|[houser robber2](leetcode/213.house-robber-ii.java)|leetcode|dp|medium|70
-46|[Pseudo-Palindromic Paths in a Binary Tree]|(leetcode-daily/pseudo-palindromic-paths-in-a-binary-tree.java)|leetcode-daily|binary tree| med | 71
+46|[Pseudo-Palindromic Paths in a Binary Tree](leetcode-daily/pseudo-palindromic-paths-in-a-binary-tree.java)|leetcode-daily|binary tree| med | 71
+47|[91. Decode Ways](leetcode/dp/decode-ways.py)|leetcode|dp|medium|72
