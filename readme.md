@@ -75,3 +75,5 @@
 47|[91. Decode Ways](leetcode/dp/decode-ways.py)|leetcode|dp|medium|72
 48|[Coin change](dp/coin-change.py)|leetcode|dp|medium|73
 49|[Path Sum II](leetcode/113.path-sum-ii.py)|leetcode|bst|medium|74
+50|[Day 1](leetcode/level-1-75/day1/)|leetcode|easy||
+51|[Day 2](leetcode/level-1-75/day2/)|leetcode|easy||
