@@ -77,3 +77,5 @@
 49|[Path Sum II](leetcode/113.path-sum-ii.py)|leetcode|bst|medium|74
 50|[Day 1](leetcode/level-1-75/day1/)|leetcode|easy||
 51|[Day 2](leetcode/level-1-75/day2/)|leetcode|easy||
+52|[Day 3](leetcode/level-1-75/day3/)|leetcode|||
+53|[Day 7](leetcode/level-1-75/day7/)|leetcode|||
