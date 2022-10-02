@@ -79,3 +79,4 @@
 51|[Day 2](leetcode/level-1-75/day2/)|leetcode|easy||
 52|[Day 3](leetcode/level-1-75/day3/)|leetcode|||
 53|[Day 7](leetcode/level-1-75/day7/)|leetcode|||
+54|[Day 6](leetcode/level-1-75/Day%206%20Tree/)|leetcode|||
