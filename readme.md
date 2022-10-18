@@ -81,3 +81,4 @@
 53|[Day 7](leetcode/level-1-75/day7/)|leetcode|||
 54|[Day 6](leetcode/level-1-75/Day%206%20Tree/)|leetcode|||
 55|[0/1 knapsack](pattern/0-1-knapsack/416-equal-subset-sum-partition/)|pattern|dp|med|
+56|[day 8](leetcode/level-1-75/day8%20BST/)|letcode|medium||

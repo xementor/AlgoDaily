@@ -1,3 +1,4 @@
+from typing import List
 class Solution:
     def canPartition(self, numss: List[int]) -> bool:
         def fn(dp,nums, sum, idx):
