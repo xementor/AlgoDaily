@@ -83,3 +83,4 @@
 55|[0/1 knapsack](pattern/0-1-knapsack/416-equal-subset-sum-partition/)|pattern|dp|med|
 56|[day 8](leetcode/level-1-75/day8%20BST/)|letcode|medium||
 57|[day 7bst](leetcode/level-1-75/day8%20BST/)|leetcode|medium||
+58|[day 11 dp](leetcode/level-1-75/day%2011/)|leetcode|medium||
