@@ -84,3 +84,4 @@
 56|[day 8](leetcode/level-1-75/day8%20BST/)|letcode|medium||
 57|[day 7bst](leetcode/level-1-75/day8%20BST/)|leetcode|medium||
 58|[day 11 dp](leetcode/level-1-75/day%2011/)|leetcode|medium||
+59|[day 12](leetcode/level-1-75/day%2012%20sliding%20window/)|leetcode|medium||
