@@ -87,3 +87,4 @@
 59|[day 12](leetcode/level-1-75/day%2012%20sliding%20window/)|leetcode|medium||
 60|[day 13 hashmap](leetcode/level-1-75/day%2013%20HashMap/)|leetcode|medium||
 61|[day 15 heap](leetcode/level-1-75/day%2015%20heap/)|leetcode|medium||
+62|[day 2 Level 2](leetcode/level%202/day%202/)|leetcode|medium||
