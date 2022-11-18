@@ -89,3 +89,7 @@
 61|[day 15 heap](leetcode/level-1-75/day%2015%20heap/)|leetcode|medium||
 62|[day 2 Level 2](leetcode/level%202/day%202/)|leetcode|medium||
 63|[day 4](leetcode/level%202/day%203/)|leetcode|medium||
+64|[Two sum](blind_75/two%20sum/)|blind75|easy||
+65|[Valid Anagram](blind_75/valid%20anagram/)|blind75|easy||
+66|[Group Anagram](blind_75/group%20anagram/)|blind75|medium||
+66|[conatins Duplicate](blind_75/contains_duplicate.py)|blind75|easy||
