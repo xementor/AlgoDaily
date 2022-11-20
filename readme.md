@@ -93,3 +93,4 @@
 65|[Valid Anagram](blind_75/valid%20anagram/)|blind75|easy||
 66|[Group Anagram](blind_75/group%20anagram/)|blind75|medium||
 66|[conatins Duplicate](blind_75/contains_duplicate.py)|blind75|easy||
+67|[Top k frequent Number](blind_75/top-k-frequent-el.java)|blind75|mid||
