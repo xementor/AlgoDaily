@@ -94,3 +94,7 @@
 66|[Group Anagram](blind_75/group%20anagram/)|blind75|medium||
 66|[conatins Duplicate](blind_75/contains_duplicate.py)|blind75|easy||
 67|[Top k frequent Number](blind_75/top-k-frequent-el.java)|blind75|mid||
+68|[Prouct or  array except self index](blind_75/)|blind75|mid||
+69|[Longest consecutive sequence](blind_75/longest-consecutive-sequence.py)|blind75|mid||
+70|[3 Sum](blind_75/3Sum.py)|blind75|mid||
+
