@@ -97,4 +97,5 @@
 68|[Prouct or  array except self index](blind_75/)|blind75|mid||
 69|[Longest consecutive sequence](blind_75/longest-consecutive-sequence.py)|blind75|mid||
 70|[3 Sum](blind_75/3Sum.py)|blind75|mid||
+71|[Longest substring without repitation](blind_75/sliding_window/3.longest-substring-without-repeating-char.py)|blind75|mid||
 
