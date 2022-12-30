@@ -1,6 +1,6 @@
-import java.util.*;
+package pattern;
 
-class Main {
+class ih {
 	public static void main (String[] args){
 		System.out.println("Hi");
 	}

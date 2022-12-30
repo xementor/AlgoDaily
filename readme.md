@@ -98,4 +98,6 @@
 69|[Longest consecutive sequence](blind_75/longest-consecutive-sequence.py)|blind75|mid||
 70|[3 Sum](blind_75/3Sum.py)|blind75|mid||
 71|[Longest substring without repitation](blind_75/sliding_window/3.longest-substring-without-repeating-char.py)|blind75|mid||
-
+72|[Sliding Window](pattern/sliding-window/)|groking|mid||
+73|[Two Pointer](pattern/two_pointer/)|groking|mid||
+74|[Slow and fast pointer](pattern/slow_fast_pointers/)|groking|mid||
