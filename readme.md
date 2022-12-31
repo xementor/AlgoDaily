@@ -101,3 +101,4 @@
 72|[Sliding Window](pattern/sliding-window/)|groking|mid||
 73|[Two Pointer](pattern/two_pointer/)|groking|mid||
 74|[Slow and fast pointer](pattern/slow_fast_pointers/)|groking|mid||
+75|[Merge Interval](pattern/merge_intervals/)|groking|pattern||
