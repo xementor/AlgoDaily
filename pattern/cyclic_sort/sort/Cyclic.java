@@ -1,6 +1,6 @@
 package pattern.cyclic_sort.sort;
 
-public class Solution {
+public class Cyclic {
   public static void sort(int[] nums) {
     int i = 0;
     while (i < nums.length) {

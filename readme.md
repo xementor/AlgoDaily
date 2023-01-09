@@ -102,3 +102,5 @@
 73|[Two Pointer](pattern/two_pointer/)|groking|mid||
 74|[Slow and fast pointer](pattern/slow_fast_pointers/)|groking|mid||
 75|[Merge Interval](pattern/merge_intervals/)|groking|pattern||
+76|[Cylcic Sort](pattern/cyclic_sort/)|groking|pattern||
+77|[Reverse LinkList](pattern/reverse-linklist/)|groking|pattern||

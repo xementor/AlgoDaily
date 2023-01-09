@@ -1,8 +1,5 @@
 package pattern.two_pointer.squaring_a_sorted_array;
 
-import javax.lang.model.util.SimpleTypeVisitor14;
-import javax.swing.plaf.synth.Region;
-
 class Solution {
     public static int[] makeSquares(int[] arr) {
         int[] squares = new int[arr.length];
