@@ -105,3 +105,4 @@
 76|[Cylcic Sort](pattern/cyclic_sort/)|groking|pattern||
 77|[Reverse LinkList](pattern/reverse-linklist/)|groking|pattern||
 78|[BFS](pattern/bfs/)|groking|pattern||
+79|[DFS](pattern/dfs/)|groking|pattern||
