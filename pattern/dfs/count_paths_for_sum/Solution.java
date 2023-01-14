@@ -23,8 +23,8 @@ public class Solution {
       if (pathSum == sum) pathCount++;
     }
 
-    pathCount += countPathRecursive(currentNode.left, pathSum, currentPath)
-    pathCount += countPathRecursive(currentNode.right, pathSum, currentPath)
+    pathCount += countPathRecursive(currentNode.left, pathSum, currentPath);
+    pathCount += countPathRecursive(currentNode.right, pathSum, currentPath);
     return pathCount;
   }
 
