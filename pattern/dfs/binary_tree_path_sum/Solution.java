@@ -7,7 +7,7 @@ class Solution {
     if (root == null) return false;
 
     if (root.val == sum && root.left == null && root.right == null) return true;
-    return hasPath(root.left, sum - root.val) or hasPath(root.right, sum - root.val);
+    return hasPath(root.left, sum - root.val) || hasPath(root.right, sum - root.val);
    }
 
 }

@@ -1,4 +1,4 @@
-package pattern.cyclic_s ort.find_first_k_missing_postive;
+package pattern.cyclic_sort.find_first_k_missing_postive;
 
 import java.util.ArrayList;
 import java.util.HashSet;

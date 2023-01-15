@@ -106,3 +106,4 @@
 77|[Reverse LinkList](pattern/reverse-linklist/)|groking|pattern||
 78|[BFS](pattern/bfs/)|groking|pattern||
 79|[DFS](pattern/dfs/)|groking|pattern||
+80|[subsets](pattern/subsets/)|groking|pattern||
