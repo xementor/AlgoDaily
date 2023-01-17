@@ -108,3 +108,4 @@
 79|[DFS](pattern/dfs/)|groking|pattern||
 80|[subsets](pattern/subsets/)|groking|pattern||
 81|[Modified Binary Search](pattern/modified_binary_search/)|groking|pattern||
+82|[Top K Element](pattern/top_k_element_heap/)|groking|pattern||
