@@ -110,3 +110,4 @@
 81|[Modified Binary Search](pattern/modified_binary_search/)|groking|pattern||
 82|[Top K Element](pattern/top_k_element_heap/)|groking|pattern||
 83|[K Way Merge](pattern/merge_k_way/)|groking|pattern||
+84|[0/1 Knapsack](pattern/one_1_knapsack/)|groking|pattern||
